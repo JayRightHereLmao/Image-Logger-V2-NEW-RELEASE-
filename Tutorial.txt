@@ -1,0 +1,5 @@
+Jays Image Logger On Top
+https://discord.gg/GHGkJv4q
+
+** ALSO **
+If you see any cmd.exe popup while opening Image_Logger_V2.exe, just close them, some of the packages I use open cmds idfk why, ill fix that next update
